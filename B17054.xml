@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An almanack but for one day. Or, The Son of man reckoning with man upon an high account-day The last day. Latter day. Lords day. the Day of Judgment. Day of Doom. Licensed and entred according to order.</title>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17054</idno><idno type="EEBO-CITATION">99825715</idno>
+  <idno type="VID">206686</idno>
+  <idno type="EEBO-PROQUEST">2264205117</idno>
+  
+            <idno type="STC">Wing A2895B</idno>
+            <idno type="STC">ESTC R213271</idno>
+            <idno type="PROQUEST">99825715</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825715e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206686)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1803:5; 1963:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An almanack but for one day. Or, The Son of man reckoning with man upon an high account-day The last day. Latter day. Lords day. the Day of Judgment. Day of Doom. Licensed and entred according to order.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clarke, W. Thackeray, and T. Passinger,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Last day. .. Lords day" and "Day of Judgment. Day of Doom" are bracketed together on title page.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>The British Library copy has MS date "15. May. 1686".</note>
+                  <note>Identified as Wing A1246A on UMI microfilm set "Early English books, 1641-1700" reels 1803:5 and 1963:2; entry cancelled in Wing (2nd ed.).</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Judgement Day --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206686:1"/>
+            <p>AN ALMANACK But for One Day.</p>
+            <p>OR, The SON of MAN Reckoning with Man upon an High Account-Day.</p>
+            <p>The
+<list>
+                  <item>Last Day.</item>
+                  <item>Latter Day.</item>
+                  <item>Lords Day.</item>
+               </list> the
+<list>
+                  <item>Day of Judg<g ref="char:EOLhyphen"/>ment.</item>
+                  <item>Day of Doom</item>
+               </list>
+            </p>
+            <p>
+               <hi>Licensed and Entred according to Order.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut depicting the apocalypse</figDesc>
+            </figure>
+            <p>Printed for <hi>I. Clarke, W. Thackeray,</hi> and <hi>T. Passinger.</hi>
+            </p>
+            <pb facs="tcp:206686:2"/>
+            <pb facs="tcp:206686:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:206686:3"/>
+            <head>The Contents of this BOOK.</head>
+            <list>
+               <item>THe fall of <hi>Adam.</hi>
+               </item>
+               <item>The restoring of Man.</item>
+               <item>The coming to Judgment.</item>
+               <item>The signs before it.</item>
+               <item>The miseries following it.</item>
+               <item>The General Sessions.</item>
+               <item>The Judge.</item>
+               <item>The Jury.</item>
+               <item>The Evidence.</item>
+               <item>The Prisoners.</item>
+               <item>The Sentence.</item>
+               <item>The Execution.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206686:3"/>
+            <head>AN ALMANACK but for one day.</head>
+            <div type="part">
+               <head>Adam's fall.</head>
+               <q>
+                  <l>By Woman and an apple,</l>
+                  <l>man-kind fell,</l>
+                  <l>By Womans Son yet</l>
+                  <l>all again grew well.</l>
+               </q>
+               <p>
+                  <hi>ADam,</hi> the first man in the world was the first that o<g ref="char:EOLhyphen"/>ver threw it; he was the King of all the Earth, and de<g ref="char:EOLhyphen"/>posed from his Crown: Paradice was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Palace, &amp; from that he was driven: <hi>Eden,</hi> was his Garden, and from that he was beaten. The Beasts of the Earth, the Fishes of the Sea, and the Birds of the Air, were all made to serve him: but he rebelled against God, they rebelled against him; He gave them Names, and lost his own; Birds never sung such Tunes, as when he first heard them; but after
+<pb facs="tcp:206686:4"/> his fall, they did not sing but mourn.</p>
+               <p>A Woman caused all this woe: the Woman was seduced by a Serpent, Man by that Woman, and both were Serpents to him. Yet for all this, God took pitty of mans weakness: for as the first <hi>Adam</hi> brought man-kind to a Bar, so the secund <hi>Adam</hi> brought a Reprieve:<note place="margin">Man re<g ref="char:EOLhyphen"/>stored by Christ.</note>
+                  <hi>Adam</hi> ruined all, and Christ restored all The Devil would then have seized on the World, but God snatcht it from him, and took it into his own hands.</p>
+               <p>
+                  <hi>Adams</hi> weakness begat Sin, Sin brought f rth Death, and Death Dam<g ref="char:EOLhyphen"/>nation.</p>
+            </div>
+            <div type="part">
+               <head>The last Day.</head>
+               <q>
+                  <l>The Trumpet blows,</l>
+                  <l>the Dead arise,</l>
+                  <l>A dreadful Sessions,</l>
+                  <l>yet none dies.</l>
+               </q>
+               <p>FOr the tryal of <hi>Adams</hi> treason, a Sessions will be call'd,<note place="margin">Adams treason paid. him.</note> the Day dreadful, the Iudge terrible, the Iury severe, the Evidence impartial, the
+<pb facs="tcp:206686:4"/> Cryer of the Court as thunder, the Indictment fearful as Lightning, a wretched Soul the prisoner, and all the Nations that ever have been, or now are, the standers by.</p>
+               <p>Oh what a day will this be! a day of Terror, a day of Triumph, a day of confusion to the Wicked, a day of comfort to the Godly,<note place="margin">The last day a comfort to the Godly.</note> a day of Re<g ref="char:EOLhyphen"/>joycing to the Sheep and Lambs, and a day of howling to the Wolves and Goats.</p>
+               <p>This will be the Last day, for no more days shall ever be after; there must never be another Sun, nor any other Moon, or any more Stars; all the Lights of Heaven will be put out, and yet a greater Light be seen, than ever mortal eyes beheld.</p>
+               <p>The Courts of Kings, the Palaces of Noble Men, the Mannors of Lords, the Banquetting-Houses of Rich-men, the full Barns of Farmers, the Cot<g ref="char:EOLhyphen"/>tages of Husbandmen, and the Stalls under which Beggars lye, will be as one, and all come to nothing on that day.</p>
+               <p>All the Kings upon Earth, all the Nations under those Kings, and all
+<pb facs="tcp:206686:5"/> those slaves that have been trod upon by those Nations, shall be called on this day to an open Tryal? Death then shall see an end of her Reign, the Grave will then be satisfied; nothing must remain but time, and that time must wait upon eternity.</p>
+               <p>On that day the Lord himself shall descend from Heaven with a shout, and an Arch-Angel shall come with a great Power and Majesty,<note place="margin">1. Thes. 2.16.</note> and he shall sound a Trumpet, whose sound shall be heard over all the parts of the World, and with his Trumpet shall Summon all Nations, and all sorts of people to come t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the general Iudgment,</p>
+               <p>Who shall appeal from this Sum<g ref="char:EOLhyphen"/>mons? who shall be able to avoid this Iudgment? What he<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt will not tremble and quake at the terrible sound of this voice?<note place="margin">All that ever have been, or now are must come to judge<g ref="char:EOLhyphen"/>ment.</note> This voice shall take from Death all her spoils, and force her to restore and pay back again what<g ref="char:EOLhyphen"/>soeuer she hath taken from the World. All that are living shall be changed, all that are dead shall be alive: the Prophets and the Patriarchs, the A<g ref="char:EOLhyphen"/>postles and Evangelists, Martyrs and virgings shall there stand in white. The
+<pb facs="tcp:206686:5"/> Graves shall open, and deliver their bodies, those bodies shall resume their own Souls, and those Souls shall appear together:<note place="margin">Earth, Water, and Fire give up their dead.</note> The Sea shall give account of those whom he hath drown<g ref="char:EOLhyphen"/>ed: the fire of those whom his flames hath con<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umed: whom the sword of Tyrants, the Saws, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xes, &amp; Wheels of Hang-men have mangled and cut to pieces, shall at this day have every Limb put into it's right place, every Ioynt and bone set together. For on a whi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e throne one shall sit, from whose face Heaven and Earth sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll flye a<g ref="char:EOLhyphen"/>way, and their place shall no more be found:<note place="margin">Apo. 20 11.</note> before him shall stand the dead both great and small: the books shall be opened,<note place="margin">The books of our lives</note> and one book which is the book of Life: and the dead shall be judged of those things which are writ<g ref="char:EOLhyphen"/>ten in these books, according to their works. The Sea shall give up her dead, De<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th and Hell theirs, and Death and Hell shall be cast into the Lake of Fire, which is the second.</p>
+               <p>This day is called the last day,<note place="margin">Why called the last Day,</note> be<g ref="char:EOLhyphen"/>cause it is the end of all days, the end of the World, the consumation of Weeks, Months, and years; no Day
+<pb facs="tcp:206686:6"/> shall ever again be set down in any Al<g ref="char:EOLhyphen"/>manack.</p>
+               <p>It is called the day of anger, or the Lords day,<note place="margin">Why the Lords day, or the day of anger.</note> for now he will be revenged of his Enemies, the Lords day, be<g ref="char:EOLhyphen"/>cause all other days have been the days of Men, in which they have aviled, rejected, and done what they would themselves in contempt of God, but on this day God will punish such as have abused his Goodness, and rewarding such as have set forth his Glory.</p>
+            </div>
+            <div type="part">
+               <head>The Signs before the Day.</head>
+               <q>
+                  <l>When it shall be none knows,</l>
+                  <l>yet it must come,</l>
+                  <l>And these are signs fore-going</l>
+                  <l>the day of Doom.</l>
+               </q>
+               <p>
+                  <hi>OF that day and hour knoweth no man,</hi>
+                  <note place="margin">Mar. 13</note>
+                  <hi>no, not the Angels that are in Heaven, neither the Son himself, save the Father, watch therefore, for it is uncertain whether the Master of the house</hi> (being gone into a strange country) <hi>will come at even, or at mid<g ref="char:EOLhyphen"/>night,
+<pb facs="tcp:206686:6"/> at the Cock-crowing, or at the dawning.</hi>
+               </p>
+               <p>How beit, certain signs shall go be<g ref="char:EOLhyphen"/>fore this day, by which signs, (as by the Evening, Men judge of the fol<g ref="char:EOLhyphen"/>lowing Morning) we may prognosti<g ref="char:EOLhyphen"/>cate, not only of the neerness of the time, but of the Terrors which will ac<g ref="char:EOLhyphen"/>cgmpany it.</p>
+               <p>St. <hi>Mathew</hi> says,<note place="margin">Mat. 24.5. The sins going before this day</note> before the com<g ref="char:EOLhyphen"/>ing of this day, ohere shall be great Wars and Troubles in ehe World, Nation shall rise against Nation, and Kingdom against Kingdom, and there shall be great Earthquakes in many places, and Pestilence and Famine, and terrible things in the Air; and other great Signs and VVonders. St. <hi>Luke</hi> says, there shall be false Christs, VVars, Sedition, Hunger,<note place="margin">Luke 21 Wars. plagues.</note> Plagues, Famine: Prophets be<g ref="char:EOLhyphen"/>trayed to their own Parents, by their own Brethren, Friends, and some of them shall be put to death.</p>
+               <p>These are the Trumpets, the Pur<g ref="char:EOLhyphen"/>sivants, Vancurriers, and Heralds, which go before and make way for the Iudge to come; then the day of Ses<g ref="char:EOLhyphen"/>sions drawing nearer and nearer, there
+<pb facs="tcp:206686:7"/> will appear other Messengers, far more fearful, far more terrible: For thus saith the Lord by <hi>Ezekiel; I will cause the Stars of Heaven to be dark<g ref="char:EOLhyphen"/>ned on thee, and I will cover the Sun with a cloud, and the Moon shall not shew forth her light, and I will cause all the Lights of Heaven to mourn, and I will send darkness over all the Land.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The coming of the Iudge.</head>
+               <p>
+                  <note place="margin">Christ his com<g ref="char:EOLhyphen"/>ing to judge<g ref="char:EOLhyphen"/>ment A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> flo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d of fire</note>THese warnings, and these drea<g ref="char:EOLhyphen"/>ful Embass es being sent before<g ref="char:EOLhyphen"/>hand, at length the Iudge himself ap<g ref="char:EOLhyphen"/>proaches, before whom goes an Vni<g ref="char:EOLhyphen"/>versal flee which shall burn and con<g ref="char:EOLhyphen"/>sume to ashes, all the Glory of the World: the Fire shall be to the wicked a beginning of their pains, and to the good an induction to their Glory.</p>
+               <p>
+                  <hi>O says <hi>Malachy,</hi> who may abide the day of the Lords coming? &amp; who shall endure when he appeareth? for he is like a purging fire, and like Ful<g ref="char:EOLhyphen"/>ers Sope:</hi>
+                  <note place="margin">Mal 3 4.</note>
+                  <hi>the day cometh that shall
+<pb facs="tcp:206686:7"/> burn as an Oven, and all the proud yea &amp; all that do wickedly, shall be as stubble, and the day that cometh shall burn them up, and leave them neither root nor branch.</hi>
+               </p>
+               <p>The Prophet <hi>Ioel</hi>
+                  <note place="margin">Ioel. 2.</note> strikes on the same string and it sounds this horrid Musick: <hi>A fire devoured before him, and behind him a flame burneth up: the Earth shall tremble before him, the Heavens shall shake, the Sun and Moon be darkned, &amp; the Stars with draw their shining: This day of the Lord is great and very terrible, and who can abide it</hi>
+               </p>
+               <p>The Prophets muster up their forces Together, to express the Glory and Fears that attend upon this general coming into the Field: and <hi>Zephany</hi> for his part, sets down thus much <hi>That is a day of wrath a day of trou<g ref="char:EOLhyphen"/>ble and heaviness,</hi>
+                  <note place="margin">Zeph. 1.</note>
+                  <hi>a day of clouds &amp; tempestuous storms, a day of the trum<g ref="char:EOLhyphen"/>pets and alarm, against the strong Ci<g ref="char:EOLhyphen"/>ties, and against the high Towers.</hi>
+               </p>
+               <p>When the Prophits have closed up their tunes,<note place="margin">Mat. 1.</note> listen how an Evangelist sings upon the same Note? <hi>As the Lightning that cometh out of the
+<pb facs="tcp:206686:8"/> East &amp; shineth into the West, so shall the coming of the son of man be, the Sun shall be darkned, &amp; then shall all the Kindreds of the earth mourn, &amp; they shall see the son of man come in the clouds with power and great glory: and he shall send his Angels and they shall gather together his E<g ref="char:EOLhyphen"/>lect from the four winds, and from the one end of the Heavens to the other.</hi>
+               </p>
+               <p>St. <hi>Mark,</hi> St. <hi>Luke and</hi> St. <hi>Iohn,</hi> be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r their parts in the same Lesson, all of them concluding, <hi>That except the Lord should shorten those days no flesh should be saved.</hi>
+               </p>
+               <p>
+                  <note place="margin">Christ will come as a King, conque<g ref="char:EOLhyphen"/>rour, a Iudge, a father, a husband a Savi<g ref="char:EOLhyphen"/>our</note>Christ therefore will come in glory like a King in Triumph, like a Conque<g ref="char:EOLhyphen"/>rour; in Terror, like a Iudge; in Mildness like a Father, in Careful<g ref="char:EOLhyphen"/>ness like an Husband; in Wonder, like a Saviour. He is the King of the whole world, all Nations bow at his feet, the Conquerour of Death and Hell: <hi>Death where is thy sting? Hell where is thy victory?</hi> What Iudge ever Rode such a Circuit? Now the Living and the dead must be arraigned before him. What Father can
+<pb facs="tcp:206686:8"/> be more pittiful? For as he beats us he huggs us, he weeps when he punish<g ref="char:EOLhyphen"/>eth; the Church is his Wife, how tender is he over her? Yet how often hath she gone astray, and made her Face deformed in his sight? But who, can stand up in greater wonder than he, that in one hand holds Heaven, and Earth in the other? What Counte<g ref="char:EOLhyphen"/>nance can strike beholders into Love, Astonishment, or Admiration, but this? whose only voice saves or con<g ref="char:EOLhyphen"/>demns them.</p>
+               <p>A Saviour; what title in the world can be comparable to it? a Saviour, a Redeemer; the Names of Empe<g ref="char:EOLhyphen"/>rours, Kings, Monorchs, Princes, Po<g ref="char:EOLhyphen"/>tentates, are to those two but shadows.</p>
+               <p>The Majestical manner of this Iudges coming is to the life set down by <hi>Naham</hi> the Prophet in this manner <hi>(viz) Our <hi>Lord</hi> shall come like a tempest and f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rious Whirl-wind;</hi>
+                  <note place="margin">3, 4, 5, 6. Nah. 1.</note>
+                  <hi>and the Clouds are the dust of his feet; He shall take Indignation against the Sea and it shall wax dry, and all the Rivers of the Earth shall be dry<g ref="char:EOLhyphen"/>ed up. The little Bason and Carmelus
+<pb facs="tcp:206686:9"/> shall be whithered, and the mount Li<g ref="char:EOLhyphen"/>banus shall fade and fall away. The Mountains shall quake before him, &amp; hills shall melt; The Earth shall burn in his sight, yea, the World and all that dwell therein. Who shall stand before the face of his indignation? &amp; who shall abide the fierceness of his fury? his wrath shall be poured out as fire and the very Rocks shall become death before him. He shall come to his Enemies as Thomes solden one with another, and as Drunkards in their drunkenness, they shall be de<g ref="char:EOLhyphen"/>stroyed as stubble fully dryed.</hi>
+               </p>
+               <p>
+                  <note place="margin">The world first drown'd then burned after.</note>The World at first (for sin) was drowned, and must at last on this day be burned: a deluge of Water swallow<g ref="char:EOLhyphen"/>ed the one, and a flame of fire must devour the other: not fire alone, but fire and brimstone: not a clear sweet fire, but a black and not some one; as our sins stink in Gods nostrils, so that fire in which our eniquities are to be tryed, must stink in ours: for all the World shall make but one bone-fire and in the ashes of that fire the whole Earth must be raked up.</p>
+               <p>the Sun was <hi>Virgo</hi> when Christ
+<pb facs="tcp:206686:9"/> was born but when he comes at this latter Day, in Terrour to Iudge the World, the Sun will be in <hi>Leo,</hi> as this Almanack speaks, for the Lyon of <hi>Juda</hi> will then roar, and be heard, and shew his strength; and then as an upright Iudge, he weighs the thoughts, words and actions of Men: then the Sun will be in <hi>Libra;</hi> an even,<note place="margin">The <hi>Sun</hi> in <hi>Libra</hi> at the last day.</note> but a terrible heavy Ballance must at that time be held in Christs hand.</p>
+               <p>This Dreadful Dissolution of the world, in which must perish the Earth, the Heavens, Sun, Moon, Stars, Pla<g ref="char:EOLhyphen"/>nets, and all that move in the waters or over our heads, is drawn in this excellent picture by the hand of St. <hi>John</hi> in his <hi>Revelation,</hi> and in these curious colours, <hi>viz.</hi>
+                  <note place="margin">Apo. 10 1, 2, 5, 6.</note>
+                  <hi>I saw a mighty Angel cloated with a bright cloud, his face was like the Sun, he had a Rainbow for a Crown on his head, his feet were like pillars of fire, of the which one he set on the Sea, and the other upon the land; the Angel lifted up his arm towards Heaven, and swear by him that liveth everlastingly, world with<g ref="char:EOLhyphen"/>out end, that from henceforth there shall be no more time.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:206686:10"/>
+               <head>The Sessions, the Iudge seated, the Pri<g ref="char:EOLhyphen"/>soners at the Bar, the Arraignment and Senten<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</head>
+               <q>
+                  <l>The Iudge sits on the bench,</l>
+                  <l>good Men and bad try'd,</l>
+                  <l>The bad condemn'd,</l>
+                  <l>the good are glorifi'd.</l>
+               </q>
+               <p>THe Iudge being (at this dreadful Day of Doom) placed in his seat of Iustice, it will be a full Court, a mighty Sessions: never in any Coun<g ref="char:EOLhyphen"/>try or Kingdom hath been held so great an Assizes. All the Children of <hi>Adam</hi> must stand before him: All be<g ref="char:EOLhyphen"/>fore <hi>Noah's</hi> time, that were overwhel<g ref="char:EOLhyphen"/>med in the gene al Flood, and all the Nations of the world, that ever have been, or shall be, shall at that day be raised out of their graves, and receive according to their deservings.</p>
+               <p>The Iudge shall sit in Majesty and Glory, round about him will stand An<g ref="char:EOLhyphen"/>gels, Arch-Angels; and all the Principalities of Heaven.</p>
+               <pb facs="tcp:206686:10"/>
+               <p>Before him all the Souls of men, wo<g ref="char:EOLhyphen"/>men and children are Prisoners; All Bodies shall rise, but not all after one manner; for the Bodies of such as have done well, shall be fair, beautiful, and brightly shining as the Sun; but the Bodies of those who in their life time upon Earth have done ill, shall appear ugly, horrid, ill-favoured, and very fil<g ref="char:EOLhyphen"/>thy to behold, in as fearful shape as de<g ref="char:EOLhyphen"/>vils.</p>
+               <p>The Guilty shall tremble at the sight of the Iudge, the Godly shall rejoyce: Will you see how the Iudge himself will appear, how apparalled, and what Countenance he will carry; See then what <hi>Daniel</hi> saith. thus doth he De<g ref="char:EOLhyphen"/>scribe him; <hi>I <hi>stood</hi>
+                  </hi> (quoth he) <hi>atten<g ref="char:EOLhyphen"/>tively, and I saw certain seats set in their places, and the ancient of years sat down, whose garments are white as snow, &amp; the hair of his head like pure Wool. The Throne whereon he sat was like flames of fire, and a River of raging fire issued and came forth from before him, thousand thousands were attendant to serve him, and ten hun<g ref="char:EOLhyphen"/>dred thousand thousands stood wait<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:206686:11"/> before him, and <hi>I</hi> beheld all this in a Vision of the night; and <hi>I</hi> saw one coming in the Clouds, who seemed to be the Son of Man.</hi>
+               </p>
+               <p>This Son of Man must be Our Iudge, before him must be this Ar<g ref="char:EOLhyphen"/>raignment: before his Throne, so built up by <hi>Daniel,</hi> must all be set; then the Books must be opened.</p>
+               <p>
+                  <note place="margin">Kings Judged</note>At one opening these Books, those Emperors, Kings, Princes, and Ru<g ref="char:EOLhyphen"/>lers of Nations, that have been cruel Tyrants, and not Governed uprightly nor cared for the lives of their Subjects but made Wars more for ambition and for Revenge, then in any Quarrel for Heaven: all these will wish that their Kingdoms might fall upon them, and hide them from the Face of him who af<g ref="char:EOLhyphen"/>frights them.</p>
+               <p>All Church-Men<note place="margin">Church-men.</note> that have instead of being Faithful Shepheards over their Flocks, been Woolves to devour them. shall hear a <hi>Vae,</hi> a Woe Pronounced a<g ref="char:EOLhyphen"/>gainst them:<note place="margin">Judges, Courti<g ref="char:EOLhyphen"/>ers,</note> Iudges that have fained themselves with Bribes, Courtiers that have Flown upon the Wings of Pride, vain-Glory, Faction, and am<g ref="char:EOLhyphen"/>bition; Lawyers<note place="margin">Lawyers</note> that have eaten up
+<pb facs="tcp:206686:11"/> their Clyants: Generals of Armies, Captains, and common Souldiers,<note place="margin">Soldiers</note> that have been drunk with Blood: Citizens,<note place="margin">Citizens</note> whose false oaths and dec<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it<g ref="char:EOLhyphen"/>ful Wares, have to buy Lands, made away their Souls: Farmers<note place="margin">Farmers</note> Grass<g ref="char:EOLhyphen"/>ers, and Countrymen, who have mur<g ref="char:EOLhyphen"/>mured at plentiful years. and in deer ones have grinded the faces of the poor. And lastly, common Beggers, who have made idleness there living,<note place="margin">Beggars</note> whose mouths have been filled with Curs<g ref="char:EOLhyphen"/>ings, with Prophaness, with damna<g ref="char:EOLhyphen"/>ble Oaths, and with Blasphemy: These, and the rest, and thousand o<g ref="char:EOLhyphen"/>thers as bad as these, are sure to be in a wretched estate, when the Iudge and their own conscience shall call them to a Trial.</p>
+               <p>No Iustices shall sit on this Bench for bribes, to speak in any Prisoners behalf: no Councellour shall be allotted to plead for any man: no Lords Let<g ref="char:EOLhyphen"/>ters can be received.</p>
+               <p>They that on earth have sumptu<g ref="char:EOLhyphen"/>ous Palaces, and Wardrops full of Embroidered Garments, who every day are wherr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed thorow the streets in thundring Coaches drawn with four
+<pb facs="tcp:206686:12"/> Horses, shows of Foot-men running by: troops of Gallants fluttering be<g ref="char:EOLhyphen"/>fore them, Trains of attendants gal<g ref="char:EOLhyphen"/>lopping after them: these shall at this Sessions stand shivering, naked, de<g ref="char:EOLhyphen"/>jected,<note place="margin">Titles are not here re<g ref="char:EOLhyphen"/>garded.</note> and stript out of all their Glories. Those Titles of High and Mighty, Right Honourable, Most Heroical, thrice Illustrious, thrice Reverent, truly Noble, true Valo<g ref="char:EOLhyphen"/>rous, Right Worshipful, &amp;c. shall here be laid by, and not regarded. A <hi>Cobler</hi> and a <hi>Caesar</hi> shall at this Bar stand upon equal terms for Life and Death about one and the same offence, and that is Sin: One Iudge must sit upon both, one Iury go upon both, and one and the same Sentence be laid up<g ref="char:EOLhyphen"/>on them at their Condemnation.</p>
+               <p>What will all the Idolatrous Kings, and People, so often mentioned in the Old Testament, say, when they shall see that true and ever-living God whom they mocked at, and blas<g ref="char:EOLhyphen"/>phemed?</p>
+               <p>How will the Iews curse their infi<g ref="char:EOLhyphen"/>delity, hardness of heart, and obstinate blindness, when they shall behold the true <hi>Messia,</hi> whom they reviled, spit at,
+<pb facs="tcp:206686:12"/> buffeted, scourged, and crucified?</p>
+               <p>How will the Romans<note place="margin">The ro<g ref="char:EOLhyphen"/>mans.</note> cry out up on their <hi>Iupiter,</hi> and <hi>400</hi> several gods, when they see themselves arraigned before an Omnipotent Deity, and not one of their false ones able to help them</p>
+               <p>How will <hi>Herod,</hi>
+                  <note place="margin">Herod.</note>
+                  <hi>Caiphas,</hi>
+                  <note place="margin">Caiphas.</note>
+                  <hi>Annas,</hi>
+                  <note place="margin">Annas.</note> and <hi>Pilate</hi>
+                  <note place="margin">Pilate.</note> look, when they see him sit in judgment upon them who was by them basely betrayed, sold, beffled, tor<g ref="char:EOLhyphen"/>mented and condemned?</p>
+               <p>Traytor <hi>Iudas,</hi>
+                  <note place="margin">Iudas.</note> what Hell wilt thou desperately again east thy self into, to see thy Lord and Maker sit in Glory, whom thou with a kiss betrayedst to a bloody Cross, to an ignominus, barbarous and cruel Execution.</p>
+               <p>How will the Turks<note place="margin">Turks.</note> and all their Grand Seigniors curse their Creati<g ref="char:EOLhyphen"/>on; and rail on <hi>Mahomet</hi> their delu<g ref="char:EOLhyphen"/>ding Prophet, when before their eyes sits the Father of all the Holy Pro<g ref="char:EOLhyphen"/>phets, whom they on Earth have laugh'd at: and hated all Christians, because they had their Names from Christ.</p>
+               <pb facs="tcp:206686:13"/>
+               <p>
+                  <note place="margin">Christi<g ref="char:EOLhyphen"/>ans.</note>Nay, how will those Christians hang the head, and cry, Woe worth to the Wombs that bare them, and to the Papps that gave them Suck, sithence they have gone astray out of Gods Fold, Lived Licentiously, spent their days in Drunkenness, in Whoreing, Blasphe<g ref="char:EOLhyphen"/>ming, Envying their Neighbours, and in all sorts of varied sins, and have dan<g ref="char:EOLhyphen"/>ced hand in hand with Satan? What will they say: Is this he whose Body was Nailed, Hands and Feet Bored, Sides pierced, whose Mouth had Vine<g ref="char:EOLhyphen"/>gar and Gall offered to it, with a Thou<g ref="char:EOLhyphen"/>sand Tortures, Disgraces and Disho<g ref="char:EOLhyphen"/>nours, onely for us, to save us, to pay our Debts, and yet how did we every hour, again and again Crucifie him? is this he in whose Name (for Iesus Christ his sake) when no more than one poor Farthing has been begg'd, we have denyed to give it, when at the same time our Pockets has jingled both with Gold and Silver? Is this he, who when we have sat at our Tables sur<g ref="char:EOLhyphen"/>feiting in variety of Wine and glutton<g ref="char:EOLhyphen"/>ous chear, have denyed our Scraps and our broken Beer to those who on their Knees have asked for the Tender
+<pb facs="tcp:206686:13"/> mercies of our Lord Iesus? O vile, mi<g ref="char:EOLhyphen"/>serable, forlorn, and forgetful Captives that we are.</p>
+               <p>What will remain after this and the like Expostulations, but beating of Breasts, tearing of Hair, Cursing their Creation, then Howlings, Vlulations, Shrieks, Terrors, fear of Torments before their Faces, and an assurance of everlasting Tortures, which are to fol<g ref="char:EOLhyphen"/>low; but only this the Sentence,<note place="margin">The <hi>Sentence.</hi>
+                  </note> Doom or Iudgment from the Iudges Mouth, and that is in two words only, <hi>(Itae Ve<g ref="char:EOLhyphen"/>nite) <hi>Go and come; Go you Cursed,</hi>
+                  </hi> to those who have done ill; <hi>Come you bles<g ref="char:EOLhyphen"/>sed,</hi> to those who have done well, <hi>Go you Cursed into everlasting fire, prepared for the Devil and his Angels; Come you Blessed, &amp; dwell with me in <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> for ever.</hi>
+               </p>
+               <p>Take heed therefore, O thou Christi<g ref="char:EOLhyphen"/>an, and beware that this Great Day of the Lords comes not upon thee unawars and therefore Watch and Pray at all times, that thou mayest be ready when he calls for Iudgement, to be one of those to whom he shall say, <hi>Come you Blessed.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206686:14"/>
+            <pb facs="tcp:206686:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
